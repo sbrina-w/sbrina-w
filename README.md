@@ -1,51 +1,41 @@
 ## hi! i'm sabrina :)
 
-I'm a **Software Engineering student** at the University of Waterloo, passionate about building things that blend AI/ML, full-stack development, and creative design.
+i'm a *`software engineering`* student at the **university of waterloo**
+
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN1ZHVpdXU4OThxM2NmbW5wcHBkYmxiaDgwcjYyODVwNDd1aDNqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="300" />
+
+- working as a **data scientist** at ontario lottery and gaming (OLG), building ML models and genAI applications
+- learning **glsl, three.js, and blender** to expand into creative coding and 3D graphics
+- going on exchange to **singapore university of technology and design** in winter!
+- former **fullstack developer** coop at brainridge consulting, building an environment healthcheck dashboard for BMO US
 
 
 
-## What I'm Up To
+### tech skills
+*languages:* <img src="https://cdn.simpleicons.org/python/292929" width="14"/> `python` <img src="https://cdn.simpleicons.org/javascript/292929" width="14"/> `javascript`  <img src="https://cdn.simpleicons.org/typescript/292929" width="14"/> `typescript`  <img src="https://cdn.simpleicons.org/cplusplus/292929" width="14"/> `c++`  <img src="https://cdn.simpleicons.org/java/292929" width="14"/> `java`  <img src="https://cdn.simpleicons.org/dart/292929" width="14"/> `dart`  <img src="https://cdn.simpleicons.org/sqlite/292929" width="14"/> `sql`  <img src="https://cdn.simpleicons.org/html5/292929" width="14"/> `html`  <img src="https://cdn.simpleicons.org/css/292929" width="14"/> `css`  
 
-- Working as a **Data Scientist** at Ontario Lottery and Gaming, building ML models and GenAI applications
-- Learning **GLSL, Three.js, and Blender** to expand into creative coding and 3D graphics
-- Going on exchange to Singapore University of Technology and Design in winter!
-- Experimenting with **LangChain, RAG pipelines, and embeddings** for smarter AI applications
-- Building interactive experiences that combine hardware, web, and AI
+*frameworks & libraries:* <img src="https://cdn.simpleicons.org/react/292929" width="14"/> `react`  <img src="https://cdn.simpleicons.org/angular/292929" width="14"/> `angular`  <img src="https://cdn.simpleicons.org/nextdotjs/292929" width="14"/> `next.js`  <img src="https://cdn.simpleicons.org/nodedotjs/292929" width="14"/> `node.js`  <img src="https://cdn.simpleicons.org/flask/292929" width="14"/> `flask`  <img src="https://cdn.simpleicons.org/flutter/292929" width="14"/> `flutter`  <img src="https://cdn.simpleicons.org/streamlit/292929" width="14"/> `streamlit`  <img src="https://cdn.simpleicons.org/tailwindcss/292929" width="14"/> `tailwindcss`  
 
+*ai/ml:* <img src="https://cdn.simpleicons.org/langchain/292929" width="14"/> `langchain`  <img src="https://cdn.simpleicons.org/openai/292929" width="14"/> `openai api`  <img src="https://cdn.simpleicons.org/huggingface/292929" width="14"/> `huggingface`   <img src="https://cdn.simpleicons.org/opencv/292929" width="14"/> `opencv`  <img src="https://cdn.simpleicons.org/pytorch/292929" width="14"/> `pytorch`  <img src="https://cdn.simpleicons.org/tensorflow/292929" width="14"/> `tensorflow`  <img src="https://cdn.simpleicons.org/pandas/292929" width="14"/> `pandas`  <img src="https://cdn.simpleicons.org/numpy/292929" width="14"/> `numpy`  <img src="https://cdn.simpleicons.org/faiss/292929" width="14"/> `faiss`   <img src="https://cdn.simpleicons.org/chromadb/292929" width="14"/> `chromadb`
 
+*cloud & database:* <img src="https://cdn.simpleicons.org/amazonaws/292929" width="14"/> `aws`  <img src="https://cdn.simpleicons.org/microsoftazure/292929" width="14"/> `azure`  <img src="https://cdn.simpleicons.org/git/292929" width="14"/>  <img src="https://cdn.simpleicons.org/activebatch/292929" width="14"/> `activebatch`   <img src="https://cdn.simpleicons.org/mongodb/292929" width="14"/> `mongodb`  <img src="https://cdn.simpleicons.org/oracle/292929" width="14"/> `oracle db`  
 
-## Tech Stack
-
-**Languages**  
-Python, JavaScript/TypeScript, C++, Java, Dart, SQL, HTML/CSS
-
-**Frameworks & Libraries**  
-React, Angular, Next.js, Node.js, Flask, Flutter, Streamlit, TailwindCSS
-
-**AI/ML**  
-LangChain, OpenAI API, HuggingFace, ChromaDB, OpenCV, PyTorch, TensorFlow, Pandas, NumPy
-
-**Cloud & DevOps**  
-AWS (Certified Cloud Practitioner), Git, MongoDB, Oracle DB
-
-**Design Tools**  
-Figma, Adobe Creative Cloud, Canva
+*design tools:* <img src="https://cdn.simpleicons.org/figma/292929" width="14"/> `figma`  <img src="https://cdn.simpleicons.org/adobecreativecloud/292929" width="14"/> `adobe creative cloud`  <img src="https://cdn.simpleicons.org/canva/292929" width="14"/> `canva`  
+ 
 
 
+### outside of work
+when I'm not coding, you'll find me
 
-## Beyond Code
+- drawing and painting (watercolor is my favorite medium)
+- baking and recipe testing (recent favorites: cherry cheesecake tarts, bunny mochi, pistachio macarons)
+- cafe hopping and perfecting my home cafe setup
+- reading historical fiction, fantasy, and asian literature
+- planning my next travel adventure
 
-When I'm not coding, you'll find me
 
-- Drawing and painting (watercolor is my favorite medium)
-- Baking and recipe testing (recent favorites: cherry cheesecake tarts, bunny mochi, pistachio macarons)
-- Cafe hopping and perfecting my home cafe setup
-- Reading historical fiction, fantasy, and Asian literature
-- Planning my next travel adventure
+### let's connect :)
 
----
-
-## Let's Connect :)
-
-**LinkedIn:** [linkedin.com/in/sabrina-wang39](https://linkedin.com/in/sabrina-wang39)  
-**Email:** sabrina.wang1@uwaterloo.ca
+**linkedIn:** [linkedin.com/in/sabrina-wang39](https://linkedin.com/in/sabrina-wang39)  
+**email:** sabrina.wang1@uwaterloo.ca
