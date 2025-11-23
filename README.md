@@ -29,7 +29,7 @@ i'm a *`software engineering`* student at the **university of waterloo**
 when I'm not coding, you'll find me
 
 - drawing and painting (watercolor is my favorite medium)
-- baking and recipe testing (recent favorites: cherry cheesecake tarts, bunny mochi, pistachio macarons)
+- baking and recipe testing (recent favorites: cherry cheesecake tarts, strawberry mochi, pistachio macarons)
 - cafe hopping and perfecting my home cafe setup
 - reading historical fiction, fantasy, asian literature and manga
 - planning my next travel adventure
