@@ -9,7 +9,6 @@ i'm a *`software engineering`* student at the **university of waterloo**
 - learning **glsl, three.js, and blender** to expand into creative coding and 3D graphics
 - going on exchange to **singapore university of technology and design** in winter!
 - former **fullstack developer** coop at brainridge consulting, building an environment healthcheck dashboard for BMO US
-<br>
 
 ### tech skills
 *languages:* <img src="https://cdn.simpleicons.org/python/292929" width="14"/> `python` <img src="https://cdn.simpleicons.org/javascript/292929" width="14"/> `javascript`  <img src="https://cdn.simpleicons.org/typescript/292929" width="14"/> `typescript`  <img src="https://cdn.simpleicons.org/cplusplus/292929" width="14"/> `c++` <img src="https://cdn.simpleicons.org/cplusplus/292929" width="14"/> `c` <img src="logos/java-brands-solid-full.svg" width="14"/> `java`  <img src="https://cdn.simpleicons.org/dart/292929" width="14"/> `dart`  <img src="https://cdn.simpleicons.org/sqlite/292929" width="14"/> `sql` 
@@ -23,7 +22,7 @@ i'm a *`software engineering`* student at the **university of waterloo**
 *cloud & database:* <img src="logos/aws-brands-solid-full.svg" width="14"/> `aws`  <img src="logos/Microsoft_Azure.svg" width="14"/> `azure`  <img src="https://cdn.simpleicons.org/git/292929" width="14"/> `git`  <img src="logos/activebatch_advanced_systems_concepts_inc_logo.png" width="14" style="filter: grayscale(100%)"/> `activebatch`   <img src="https://cdn.simpleicons.org/mongodb/292929" width="14"/> `mongodb`  <img src="logos/oracle-svgrepo-com.svg" width="14"/> `oracle db`  
 
 *design tools:* <img src="https://cdn.simpleicons.org/figma/292929" width="14"/> `figma`  <img src="logos/adobe-svgrepo-com.svg" width="14"/> `adobe creative cloud`  <img src="https://cdn.simpleicons.org/canva/292929" width="14"/> `canva`  
-<br>
+
 ### outside of work
 when I'm not coding, you'll find me
 
