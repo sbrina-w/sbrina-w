@@ -30,5 +30,5 @@ when I'm not coding, you'll find me
 - drawing and painting (watercolor is my favorite medium)
 - baking and recipe testing (recent favorites: cherry cheesecake tarts, bunny mochi, pistachio macarons)
 - cafe hopping and perfecting my home cafe setup
-- reading historical fiction, fantasy, and asian literature
+- reading historical fiction, fantasy, asian literature and manga
 - planning my next travel adventure
