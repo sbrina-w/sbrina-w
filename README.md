@@ -20,7 +20,7 @@ i'm a *`software engineering`* student at the **university of waterloo**
 
 *data:*  <img src="https://cdn.simpleicons.org/pandas/292929" width="14"/> `pandas`  <img src="https://cdn.simpleicons.org/numpy/292929" width="14"/> `numpy`  <img src="https://cdn.simpleicons.org/facebook/292929" width="14"/> `faiss`   <img src="https://cdn.simpleicons.org/databricks/292929" width="14"/> `databricks`    <img src="https://cdn.simpleicons.org/streamlit/292929" width="14"/> `streamlit`
 
-*cloud & database:* <img src="logos/aws-brands-solid-full.svg" width="14"/> `aws`  <img src="logos/Microsoft_Azure.svg" width="14"/> `azure`  <img src="https://cdn.simpleicons.org/git/292929" width="14"/> `git`  <img src="logos/activebatch_advanced_systems_concepts_inc_logo.png" width="14" style="filter: grayscale(100%)"/> `activebatch`   <img src="https://cdn.simpleicons.org/mongodb/292929" width="14"/> `mongodb`  <img src="logos/oracle-svgrepo-com.svg" width="14"/> `oracle db`  
+*cloud & database:* <img src="logos/aws-brands-solid-full.svg" width="14"/> `aws`  <img src="logos/Microsoft_Azure.svg" width="14"/> `azure`  <img src="https://cdn.simpleicons.org/git/292929" width="14"/> `git`  <img src="logos/activebatch_advanced_systems_concepts_inc_logo.png" width="14" style="filter: grayscale(100%)"/> `activebatch`   <img src="https://cdn.simpleicons.org/mongodb/292929" width="14"/> `mongodb` <img src="https://cdn.simpleicons.org/mysql/292929" width="14"/> `mysql`  <img src="logos/oracle-svgrepo-com.svg" width="14"/> `oracle db`  
 
 *design tools:* <img src="https://cdn.simpleicons.org/figma/292929" width="14"/> `figma`  <img src="logos/adobe-svgrepo-com.svg" width="14"/> `adobe creative cloud`  <img src="https://cdn.simpleicons.org/canva/292929" width="14"/> `canva`  
 <br> 
